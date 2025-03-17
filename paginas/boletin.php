@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Boletin informativo</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/stilo.css">
+<link rel="shortcut icon" type="image/x-icon" href="imagens/icone.ico">
+</head>
+<body>
+    <a href="http://lproweb.procempa.com.br/pmpa/prefpoa/sms/usu_doc/2020_09_08_boletim_covid_sms_161.pdf"
+       target="_blank">
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Dados sobre o coronavírus</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/stilo.css">
+    <link rel="shortcut icon" type="image/x-icon" href="imagens/icone.ico">
+    <link rel="stylesheet" type="text/css" href="css/corpo.css">
+  </head>
+  <body>
+     <img id="imgdados" src="imagens/pdados.png" alt="dados" title="Dados">
+     <h4>
+     Considerando a necessidade de avaliar a ocupação geral dos leitos de UTI adulto, é relevante identificar o número de leitos ocupados por COVID-19 (confirmados + suspeitos), o número de leitos ocupados por outras causas, bem como o número de leitos livres. Ações sistemáticas implementadas previamente aumentam a disponibilidade de leitos, como a suspensão dos procedimentos eletivos, a reativação de leitos em manutenção e a conversão de outros tipos de leitos de menos complexidade em leitos de UTI. Fonte: Painel Intensivistas. Disponível em: bit.ly/monitoramento_uti
+      <br>
+      <br>
+     A progressão do número de casos graves pode ser avaliada mediante a série diária de pacientes internados em leitos de UTI com suspeita ou confirmados para COVID-19. As medidas de isolamento social impactam diretamente na velocidade do contágio das pessoas do grupo de risco. Fonte: Painel Intensivistas. 
+     </h4>
+</body>
+</html>

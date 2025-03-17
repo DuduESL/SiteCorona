@@ -1,0 +1,79 @@
+#background{ 
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    background: cover;
+}
+header{
+    height: auto;
+    overflow: hidden;
+}
+body{
+	margin: 0; border:0; padding: 0; background: black;
+}
+h1{
+    position:relative; top:20px; margin-left:40px;
+     text-align: center; color:#FFF; font-size: 50px;
+}
+
+ul{
+position: relative;
+width:50%;
+z-index:999;
+color:#FFF;
+margin-right: 1px;
+}
+
+h2{
+    position: relative;
+    z-index:999;
+    text-align: left;
+    margin-bottom: 1px;
+} 
+#documento{
+    position: relative;
+    z-index: 999;
+    color:red;
+    margin-top: 50px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+  
+} 
+#imgfluxograma{
+    position: relative;
+    width:80%;
+    height: 80%;
+    margin-left: 40px;
+}
+h3{
+    position: relative;
+    color: whitesmoke;
+}
+#pmpalogo{
+    position: relative;
+    width: 80%;
+    height: 80px;
+    margin-left:40px ;
+    margin-top: 60px;
+}h4{
+    position:relative; top:20px; margin-left:40px;
+    text-align: center; color:rgb(201, 235, 13); font-size: 20px;
+}
+#imgdados{
+    width: 100%;
+    height: auto;
+}
+@media (min-width: 800px){
+
+
+    #imgdados{
+        width: 100%;
+        height: auto;
+    }
+
+}

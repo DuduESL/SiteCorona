@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Contingência</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/stilo.css">
+    <link rel="shortcut icon" type="image/x-icon" href="imagens/icone.ico">
+    <link rel="stylesheet" type="text/css" href="css/corpo.css">
+  </head>
+<body>
+      <header>
+        <video id="background" autoplay muted loop class="video1" src="videos/radar-scanning-to-detected-of-Covid-19-virus-in-country-has-spread-all-over-the-world.mp4"></video>
+     </header>
+  <div id="corpo">
+     <div id="cabecalho">
+            <h1>Plano de contingência</h1>
+     </div>             
+      <div id="ladodir">            
+                  <ul type= "circle">
+                   <h2>Objetivos gerais</h2> 
+                   <br>
+                      <li>Prevenir e controlar a alta transmissão da Infecção Humana pelo Novo Coronavírus (COVID-19);</li>
+                      <li>Evitar a sobrecarga dos serviços de saúde;</li>
+                      <li>Evitar a ocorrência de óbitos por Infecção Humana pelo Novo Coronavírus (COVID-19), notadamente aqueles causados por desassistência.</li>
+                  </ul>
+                   <br> 
+                      <a id="documento" href="documento/plano_de_contingencia_covid_19_-_poa_2020_-_setembro.pdf" target="blank">Clique aqui para ver o plano completo</a>
+      </div>
+                   <h4>Fonte: Prefeitura de Porto Alegre</h4>
+      <div id="ladoesq">
+                   <ul type="circle">
+                   <h2>Objetivos específicos</h2>
+                   <br> 
+                      <li>- Organizar as ações de prevenção e controle da Infecção Humana pelo Novo Coronavírus (COVID-19);</li>
+                      <li>Garantir notificação e investigação de casos suspeitos;</li>
+                      <li>Monitorar e avaliar a situação epidemiológica de casos notificados e óbitos para orientar a tomada de decisão;</li>
+                      <li>Monitorar e avaliar a utilização da rede de atenção para orientar a tomada de decisão;</li>
+                      <li>Organizar os serviços de saúde da capital de forma a atender a toda a demanda de saúde de sua população, decorrente ou não da pandemia;</li>
+                      <li>Organizar as ações de coleta e envio aos laboratórios de referência de amostras clínicas de suspeitos para diagnóstico e/ou isolamento viral;</li>
+                      <li>Garantir a divulgação correta e ética de informações e análises epidemiológicas;</li>
+                      <li>Apoiar os processos de coordenação e execução das atividades de educação em saúde e mobilização social;</li>
+                      <li>Adotar medidas preventivas para profissionais de saúde, com o devido fornecimento e indicação de uso de Equipamentos de Proteção Individuais (EPIs);</li>
+                      <li>Promover e garantir a assistência adequada ao paciente em todos os níveis de atenção à saúde, garantindo acesso, diagnóstico e manejo clínico;</li>
+                   </ul>
+      </div>            
+  </div>                
+</body>
+</html>

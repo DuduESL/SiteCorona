@@ -1,0 +1,66 @@
+/* código garante que todos os elementos sejam dimencionados
+de maneira mais intuitiva */
+*{
+	margin:0;
+	padding:0;
+}
+/* Define a formatação dos elementos que estão no bloco  */
+fieldset{
+	border:0;
+	text-align:center;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	margin-top: 30px;
+}
+.dados{
+	margin-bottom:15px;
+	
+}
+.dados label{
+	margin-bottom:5px;
+	color:rgb(243, 239, 10);
+	display:block;
+	
+}
+.dados input[type="text"],
+.dados input[type="number"],
+.dados input[type="radio"] {
+	padding:3px;
+	border:1px solid #ccc;
+	box-shadow: 40px 40px 8px #888888;
+	
+}
+
+.dados input[type="number"],
+.dados input[type="radio"]{
+width: 40px;
+
+}
+/*definir uma cor da caixa ao clicar */
+.dados input:focus, .dados select:focus{
+	background-color:#888888;
+}
+/* Definir uma cor no campo sexo */
+.dados{
+	color: #fff;
+}
+.botao{
+	font-size:24px;
+	background-color:blue;
+	border:1;
+	margin-bottom:10px;
+	color:#fff;
+	padding:5px 7px;
+	box-shadow:8px 8px 8px rgba(0,128,128);
+	text-shadow:3px 3px 3px rgba(0,191,255);
+}
+.botao:hover{
+	background-color:#f4a460;
+}
+
+
+/* define o tipo de formato do cursor*/
+.botao,select{
+	cursor:pointer;
+}

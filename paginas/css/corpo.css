@@ -1,0 +1,38 @@
+#corpo{
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+}
+#cabecalho{
+    width: 100%;
+    height: 80px;
+}
+#ladodir{
+    width: 50%;
+    height: 0 auto;
+    text-align: left;
+    float: right;
+}
+#ladoesq{
+    width: 50%;
+    height: 0 auto;
+    float:left;
+    
+}
+section{
+    position: relative;
+    z-index: 999;
+}
+@media all and (max-width: 800px){
+    #ladoesq, #corpo,#section, #cabecalho{
+	   width: 100%;
+	   height: 95%
+	   
+    }
+    #ladodir{
+        width: 100%;
+        height: 80%;
+    }
+    #ladoEsquerdoComBackground
+   
+}     
