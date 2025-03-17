@@ -1,0 +1,70 @@
+#corpo{
+    width: 95%;
+    height: auto;  
+    margin: auto;
+
+}
+#ladoesq{
+	width: 24%;
+	height: 600px;
+	float: left;
+}
+#meio{
+    width: 20%;
+	height: 600px;
+	float: left;
+}
+#ladodir{
+	width: 51%;
+	height: 600px;
+	float: right;
+}
+#rodape{
+    width: 100%;
+    height: 150px;
+
+}
+
+@media all and (max-width: 800px){
+    #ladodir, #meio,#ladoesq, #corpo{
+	   width: 100%;
+	   height: 95%
+	   
+	}
+    #rodape{
+		width: 100%;
+		height: auto;
+	}
+	#imglogo{
+		width: 100%;
+		height: 300px;
+	}
+    #img1{
+		width: 100%;
+		height: 150px;
+		
+	}
+    #img2{
+		width: 100%;
+		height: 150px
+	}
+	#img3{
+		width: 100%;
+		height: 150px;
+	}
+    #img4{
+		width: 100%;
+		height: 150px;
+	}
+	#img5{
+		width: 100%;
+		height: 150px;
+	}
+
+
+
+
+
+
+}
+

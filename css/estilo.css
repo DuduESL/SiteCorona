@@ -1,0 +1,106 @@
+body{
+	background-image: url("../imagens/fundo2.jpg");
+	
+}
+#imglogo{
+	height: 458px;
+	width: 299px;
+}
+#img1{
+	position: relative;
+	margin-top:0 auto;
+	margin-left: auto;
+}
+#img1:hover{
+	background-color: rgb(255, 238, 0);
+}
+#img2{
+	position: relative;
+	margin-top: 0 auto;
+	margin-left: auto;
+}
+
+#img5{
+	position: relative;
+	margin-top: 0 auto;
+	margin-left: auto;
+}
+
+
+#img3{
+	position: relative;
+	margin-bottom: 100px;
+	margin-left: auto;
+}
+#img6{
+	width: 100%;
+	height: auto;
+}
+
+h1{
+	position: relative;
+	font-size: 30pt;
+	text-transform: uppercase;
+	text-align: center;
+	z-index: 999;
+}
+h2{
+	font-size: 30px;
+	text-decoration: none;
+	
+}
+
+hr{
+	background-color: #00ff00;
+	height: 5px;	
+}
+
+h3{
+	text-align: right;
+	font-weight: bold;
+	font-size: 18px;
+	font-family:Sans-serif;
+	font-style: Arial;
+	color: black;
+}
+h4{
+	font-size: 20px;
+	text-align: left;
+	margin: 1cm;
+}
+h5{
+	text-align: center;
+}
+
+.pmpalogo{
+	width: 300px;
+	height: 68px;
+	position: relative;
+	float: left;
+	margin-top: 40px;
+		
+}
+
+.imgredes{
+	width: 68px;
+	height: 68px;
+	position: relative;
+	float: right;
+	
+}
+.fone2{
+    width: 300px;
+	height: 68px;
+	float: left;
+	position: relative;
+	margin-top: 40px;
+	margin-left: 5cm;	
+
+}
+.link{
+	color: black;
+}
+li {
+	font-size: 20px;
+
+}
